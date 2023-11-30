@@ -189,10 +189,10 @@ body {
             <div class="swiper-wrapper">
               <div class="feedback__item swiper-slide">
                 <?php 
-                $servername = "mysql.at.dz";
-$username = "u0458";
-$password = "wO4EnNk-OHb2N5XT";
-$db = "db0458_etus-sba";
+                $servername = "65.108.43.126";
+$username = "etusd549_etus";
+$password = "aBfvV$%yZdu$";
+$db = "etusd549_WebSpace";
                 $link = mysqli_connect($servername, $username, $password);
 mysqli_select_db($db, $link);
 

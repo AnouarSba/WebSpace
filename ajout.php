@@ -46,10 +46,10 @@ $id=$_GET['id'];
                      header('Location: Registration_Ep_candidat.php');
 } else if (isset($_GET['ept'])) {
 $id=$_GET['ept'];
- $servername = "mysql.at.dz";
-$username = "u0458";
-$password = "wO4EnNk-OHb2N5XT";
-$db = "db0458_etus-sba";
+ $servername = "65.108.43.126";
+$username = "etusd549_etus";
+$password = "aBfvV$%yZdu$";
+$db = "etusd549_WebSpace";
 
            
    
@@ -115,10 +115,10 @@ if (isset($_GET['abs']) and $_GET['abs'] != '') {
   $abs=$_GET['abs'];
   $redoublant=1;
 }
- $servername = "mysql.at.dz";
-$username = "u0458";
-$password = "wO4EnNk-OHb2N5XT";
-$db = "db0458_etus-sba";
+ $servername = "65.108.43.126";
+$username = "etusd549_etus";
+$password = "aBfvV$%yZdu$";
+$db = "etusd549_WebSpace";
 
            
    
@@ -176,10 +176,10 @@ $id_f=$_GET['id_f'];
 
 
 
- $servername = "mysql.at.dz";
-$username = "u0458";
-$password = "wO4EnNk-OHb2N5XT";
-$db = "db0458_etus-sba";
+ $servername = "65.108.43.126";
+$username = "etusd549_etus";
+$password = "aBfvV$%yZdu$";
+$db = "etusd549_WebSpace";
 
            
    

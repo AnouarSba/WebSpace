@@ -1,10 +1,10 @@
 <?php 
 if (isset($_GET["id"])) {
 	$id = $_GET["id"];
-  $servername = "mysql.at.dz";
-$username = "u0458";
-$password = "wO4EnNk-OHb2N5XT";
-$db = "db0458_etus-sba";
+  $servername = "65.108.43.126";
+$username = "etusd549_etus";
+$password = "aBfvV$%yZdu$";
+$db = "etusd549_WebSpace";
 
  
 $mysqli = new mysqli($servername, $username, $password,$db);
@@ -22,10 +22,10 @@ echo $row[7];
 }
 	if (isset($_GET["idd"])) {
 	$id = $_GET["idd"];
-  $servername = "mysql.at.dz";
-$username = "u0458";
-$password = "wO4EnNk-OHb2N5XT";
-$db = "db0458_etus-sba";
+  $servername = "65.108.43.126";
+$username = "etusd549_etus";
+$password = "aBfvV$%yZdu$";
+$db = "etusd549_WebSpace";
 
  
 $mysqli = new mysqli($servername, $username, $password,$db);

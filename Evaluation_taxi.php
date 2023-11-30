@@ -51,10 +51,10 @@
 </head>
 <body>
   <?php 
-    $servername = "mysql.at.dz";
-$username = "u0458";
-$password = "wO4EnNk-OHb2N5XT";
-$db = "db0458_etus-sba";
+    $servername = "65.108.43.126";
+$username = "etusd549_etus";
+$password = "aBfvV$%yZdu$";
+$db = "etusd549_WebSpace";
 
 $tr=['','الاشخاص','البضائع' ];
            

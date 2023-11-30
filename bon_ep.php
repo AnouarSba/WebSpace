@@ -1,10 +1,10 @@
 <?php
     include_once('tbs_class.php'); 
     include_once('plugins/tbs_plugin_opentbs.php'); 
-    $servername = "mysql.at.dz";
-$username = "u0458";
-$password = "wO4EnNk-OHb2N5XT";
-$db = "db0458_etus-sba";
+    $servername = "65.108.43.126";
+$username = "etusd549_etus";
+$password = "aBfvV$%yZdu$";
+$db = "etusd549_WebSpace";
 
            
 $date_f = date("Y-m-d", strtotime($date.' +3 month'));
